@@ -2,7 +2,7 @@
 
 
 Algumas coisas sobre mim:
-- Atualmente estou em transição de carreira para área de teste de software 🧑‍💼
+- Atualmente Qa trainee na Dti Digital 🧑‍💼
 - Tenho conhecimento em logica de programação em algumas linguaguens ⬇
 - Java , C ,Phyton
 - Conhecimento em Testes Funcionais de Software 🧑🏻‍💻
