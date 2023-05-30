@@ -10,7 +10,7 @@ Algumas coisas sobre mim:
 - Experiencia em Projetos Agéis com Scrum e Kanban
 - Experiencia em testes automatizados com Slenium Web Driver , Junit,Robot framework , Cypress.
 - Experiencia em testes de api rest com Insomnia
-- Conhecimento em Banco de Dados MySQL 💳
+- Experiencia em Banco de Dados Relacionais 💳
 - Buscando espalhar a qualidade de software em todo processo.
 
   <a href="https://github.com/juarezjunior95">
