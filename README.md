@@ -2,7 +2,6 @@
 
 
 Algumas coisas sobre mim:
-- Atualmente Qa  na Funcional Health 🧑‍💼
 - Tenho conhecimento em logica de programação em algumas linguaguens ⬇
 - Java , C ,Phyton
 - Conhecimento em Testes Funcionais de Software 🧑🏻‍💻
